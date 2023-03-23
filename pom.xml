@@ -118,11 +118,8 @@
   </pluginRepositories>
 
   <modules>
-    <module>kogito-build</module>
     <module>kogito-bom</module>
-    <module>api</module>
     <module>drools</module>
-    <module>jbpm</module>
     <module>kogito-codegen-modules</module>
     <module>kogito-test-utils</module>
     <module>quarkus</module>
